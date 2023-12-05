@@ -2182,8 +2182,8 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("../..images/overlay.png"), url("../../images/PW.jpg");
-		background-size: auto, cover;
+		background-image: url("../../images/PW.jpg");
+		background-size: auto, 2592px 1728px;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		padding: 14em 0 14em 0;
